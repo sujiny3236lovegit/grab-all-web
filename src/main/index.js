@@ -5,7 +5,7 @@ import axios from "axios";
 function MainPage(){
   const [products, setProducts] = React.useState([]);
   React.useEffect(function(){
-    axios.get('https://477ada70-09ca-4cbf-81f9-e1d8451c301a.mock.pstmn.io/products')
+    axios.get('https://b6fecd73-c9ae-464d-9e2b-bc7e80a24bab.mock.pstmn.io/products')
     .then(function(result){
       const products = result.data.products;
       setProducts(products);
@@ -24,7 +24,7 @@ function MainPage(){
           <div id="banner">
               <img src="images/banner/banner1.jpg" />
           </div>
-          <h1>판매되는 상품들</h1>
+          <h1>인기 상품</h1>
           <div id="product-list">
             {
               products.map(function(product, index){
