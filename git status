@@ -1,0 +1,17 @@
+[33mcommit ad48e6430ae4cf0647962daeb1eb237b6535a759[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: sujiny3236lovegit <69749672+sujiny3236lovegit@users.noreply.github.com>
+Date:   Sat Feb 20 10:39:28 2021 +0900
+
+    css
+
+[33mcommit a60b2c4aacd523a36361f2842d584fe4458e26f6[m
+Author: sujiny3236lovegit <69749672+sujiny3236lovegit@users.noreply.github.com>
+Date:   Sat Feb 20 09:53:11 2021 +0900
+
+    npm + axios
+
+[33mcommit 0e15109ae07f9a0383c2bf05eddcc2baaf69aed3[m
+Author: sujiny3236lovegit <69749672+sujiny3236lovegit@users.noreply.github.com>
+Date:   Thu Feb 18 18:09:26 2021 +0900
+
+    Initialize project using Create React App
